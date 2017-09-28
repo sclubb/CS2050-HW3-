@@ -1,0 +1,53 @@
+run:
+Please choose one of the following options.
+1. Import the data
+2. Display list of all countries that border Germany
+3. Display list of all countries that have a population greater than 35 million
+4. Display list of all countries that border Germany ANDhave a population greater than 35 million
+5. Quit the program
+1
+Please choose one of the following options.
+1. Import the data
+2. Display list of all countries that border Germany
+3. Display list of all countries that have a population greater than 35 million
+4. Display list of all countries that border Germany ANDhave a population greater than 35 million
+5. Quit the program
+2
+Netherlands
+Belgium
+Luxembourg
+Poland
+Czechia
+Austria
+France
+Switzerland
+
+Please choose one of the following options.
+1. Import the data
+2. Display list of all countries that border Germany
+3. Display list of all countries that have a population greater than 35 million
+4. Display list of all countries that border Germany ANDhave a population greater than 35 million
+5. Quit the program
+3
+Germany  80594017
+Poland  38476269
+France  67106161
+
+Please choose one of the following options.
+1. Import the data
+2. Display list of all countries that border Germany
+3. Display list of all countries that have a population greater than 35 million
+4. Display list of all countries that border Germany ANDhave a population greater than 35 million
+5. Quit the program
+4
+Poland  38476269
+France  67106161
+
+Please choose one of the following options.
+1. Import the data
+2. Display list of all countries that border Germany
+3. Display list of all countries that have a population greater than 35 million
+4. Display list of all countries that border Germany ANDhave a population greater than 35 million
+5. Quit the program
+5
+BUILD SUCCESSFUL (total time: 5 seconds)
